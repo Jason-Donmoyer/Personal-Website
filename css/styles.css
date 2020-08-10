@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+main {
+  height: 100vh;
+  background-image: url('../images/light_ocean_view.jpg');
+  background-size: cover;
+}
