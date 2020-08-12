@@ -13,3 +13,17 @@ main {
   background-image: url('../images/light_ocean_view.jpg');
   background-size: cover;
 }
+
+main h1 {
+  padding: 20px 0 5px 20px;
+}
+
+main p {
+  font-size: 15px;
+  padding-left: 15px;
+}
+
+main div {
+  text-align: right;
+  padding-right: 10px;
+}
